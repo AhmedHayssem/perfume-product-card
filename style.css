@@ -119,7 +119,7 @@ left:calc(50% - 45%);
 gap:0;
 }
 .card-body  img {
- content: url(images/image-product-mobile.jpg);
+ content: url(image-product-mobile.jpg);
  width: 100%;
  height:auto;
 }
